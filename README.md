@@ -10,8 +10,8 @@ The project was developed as part of two university courses:
 - **Programming in the Web 2**: The project was further enhanced with back-end technologies including PHP, a database, AJAX, and more.
 
 ### Contributors
-Erea Blakaj
-Erina Blakiqi
-Gerta Hodolli
-Roni Veseli
-Lyra Bullaku
+- Erea Blakaj
+- Erina Blakiqi
+- Gerta Hodolli
+- Roni Veseli
+- Lyra Bullaku
